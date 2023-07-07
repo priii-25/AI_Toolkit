@@ -1,0 +1,4 @@
+import openai
+audio_file= open("/path/to/file/audio.mp3", "rb")
+transcript = openai.Audio.transcribe("whisper-1", audio_file)
+print(transcript)
