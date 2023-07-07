@@ -6,7 +6,8 @@ It supports multiple barcode types, such as QR codes or UPC codes, enabling accu
 The Word Cloud Generator project employs natural language processing techniques to create visually appealing word clouds from textual data. 
 It analyzes the input text, identifies the most frequently occurring words, and generates an aesthetically pleasing representation where word size corresponds to its frequency.
 
-4.
+4.Text Completion
+This repository demonstrates how to use OpenAI's text completion API to generate text based on a given prompt. It provides an example implementation using the OpenAI Python library.
 
 3. Speech-to-Text Converter
 The Speech-to-Text Converter project utilizes advanced speech recognition libraries to convert spoken language into written text.
